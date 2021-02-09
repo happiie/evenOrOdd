@@ -2,7 +2,8 @@
 
 author: Nor Akmal Farhan
 
-simple list filter 
-firstly, multiply all number inside in array
-if total = even, it return total sum of array
-if total = odd, it return 0
+Simple List Filter
+
+Firstly, multiply all number inside in array. Next, if total = even, it return total sum of array. Then, if total = odd, it return 0.
+
+Thank you.
