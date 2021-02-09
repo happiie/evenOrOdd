@@ -1,4 +1,4 @@
-# evenOrOdd_pythonVer.
+# evenOrOdd_python
 
 author: Nor Akmal Farhan
 
