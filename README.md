@@ -1,7 +1,7 @@
-# Even Or Odd
+# Even Or Odd (Problem Exercise)
 
-Simple List Filter (Python)
-
-Firstly, multiply all number inside in array. Next, if total = even, it return total sum of array. Then, if total = odd, it return 0.
+1. Multiply all number inside in array. 
+2. If total = even, it return total sum of array. 
+3. If total = odd, it return 0.
 
 Thank you.
