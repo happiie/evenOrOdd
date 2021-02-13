@@ -1,4 +1,4 @@
-# evenOrOdd_python
+# Even Or Odd
 
 Simple List Filter (Python)
 
